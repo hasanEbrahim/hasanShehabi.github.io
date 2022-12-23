@@ -1,0 +1,105 @@
+{
+    "name": "Hasan Shehabi",
+    "headerTaglineOne": "",
+    "headerTaglineTwo": "Hasan Shehabi 💻",
+    "headerTaglineThree": "Software Developer",
+    "headerTaglineFour": " based in Bahrain.",
+    "darkMode": true,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Github",
+        "link": "https://github.com/hasanShehabi"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/hasan-shehabi-83433913a"
+      },
+    
+      { "id": "5", "title": "Email", "link": "mailto:shehabi.hassan@gmail.com" }
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "Frontend Development",
+        "description": "HTML - CSS - JS - React",
+        "imageSrc": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687289/retina_800x320_op-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-d3a7d3e7430ee224cab75104f11342a0.png",
+        "url": "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+      },
+      {
+        "id": "2",
+        "title": "Backend Development",
+        "description": "C# - PHP - Java - Python",
+        "imageSrc": "https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg",
+        "url": "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+      },
+      {
+        "id": "3",
+        "title": "Mobile Development",
+        "description": "Flutter - Swift - Java - Dart",
+        "imageSrc": "https://saigontechnology.com/assets/media/Blog/typical-process-for-a-successful-mobile-development.jpeg",
+        "url": "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+      },
+      {
+        "id": "4",
+        "title": "Database Administration",
+        "description": "SQL",
+        "imageSrc": "https://www.thinkautomation.com/wp-content/uploads/2018/12/bandwidth-close-up-computer-1148820-scaled.jpg",
+        "url": "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+      }
+     
+    ],
+    "services": [
+      {
+        "id": "1",
+        "title": "Associate - Systems Analyst",
+        "description": "Develop and maintain inhouse applications. Perform market research for Engineering based applications for core business use. Manage Fuel Managment System for local gas stations."
+      },
+      
+      {
+        "id": "2",
+        "title": "Systems Analyst",
+        "description": "Developed and deployed API for internal use. Maintained customer accounts in ECommerce site (Eshop). Performed maintenance on the Batelco mobile app and reported issues to development team to resolve. "
+      },
+      {
+        "id": "3",
+        "title": "Software Developer Intern",
+        "description": "Developed a Queue Management System for local service centers. Worked on the backend infrastructure, and setting up logic for Role-based access controls using MVC (Model, View, Controller) Framework in C#."
+      }
+     
+    ],
+    "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "resume": {
+      "tagline": "👋  I'm a software engineer, product designer, and maker.",
+      "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "March 2022 - Present",
+          "type": "Full Time",
+          "position": "Frontend Engineer at X",
+          "bullets": [
+            "Worked on the frontend of a React application",
+            "Worked on the frontend of a React application"
+          ]
+        },
+        {
+          "id": "2",
+          "dates": "March 2020 - March 2022",
+          "type": "Full Time",
+          "position": "Frontend Engineer at X",
+          "bullets": ["Worked on the frontend of a React application"]
+        }
+      ],
+      "education": {
+        "universityName": "University X",
+        "universityDate": "2016-2020",
+        "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      },
+      "languages": ["Javascript", "HTML5", "CSS", "Python"],
+      "frameworks": ["React", "Typescript", "NodeJs"],
+      "others": ["Figma", "AdobeXD", "AWS"]
+    }
+  }
+  
