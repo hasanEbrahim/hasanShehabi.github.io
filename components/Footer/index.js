@@ -12,10 +12,7 @@ const Footer = ({}) => {
           <div className="mt-10">
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
             “Be curious, not judgmental” 
-            </h1>
-            <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
-            – Walt Whitman
-            </h1>
+
            
             <div className="mt-10">
              
